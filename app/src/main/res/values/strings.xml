@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UCA Api Rest</string>
+
+    <!-- Sign Up -->
+    <string name="activity_sign_up_email">Correo electronico</string>
+    <string name="activity_sign_up_password">Contrasena</string>
+    <string name="activity_sign_up_sign_up">Registrarme</string>
+    <string name="activity_sign_up_sign_in">Iniciar sesion</string>
+
+    <string name="activity_sign_up_email_required">Chele, pasame el correo.</string>
+    <string name="activity_sign_up_password_required">Chele, te falto la contrasena.</string>
+</resources>
